@@ -6,6 +6,6 @@ Topics:
 - Variables
 - Console Input/Output
 - Static Methods
-- Handling exceptions (```try```-```catch```)
+- Handling Exceptions (```try```-```catch```)
 
 Date of Completion: 04/08/2018
